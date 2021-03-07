@@ -57,3 +57,13 @@ the "worst" variables too - they are correlated in general to the regular variab
 
 ```
 
+You could see the full exploration in the files:
+
+exploration_template.html
+or 
+exploration_template.ipynb - jupyter notebook.
+
+you could see a brief summery in the file:
+
+slides_deck_template.slides.html 
+(put attention to the arrows right down to see the graphs and the sub slides)
